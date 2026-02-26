@@ -1,7 +1,14 @@
+**Technologist / London UK**
+
+- Consumer Apps
+- Decentralised Tech
+- Agentic AI & ML
+- Developer Evagelism
+
 **Currently:**
 
 - Building next gen social experiences _(NDA)_
-- Studying AI @ [KCL](https://www.kcl.ac.uk/)
+- Studying MSc AI @ [KCL](https://www.kcl.ac.uk/)
 
 **Previously:**
 - Senior Eng @ [Fuel Labs](https://github.com/FuelLabs/fuels-ts)
