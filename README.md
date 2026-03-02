@@ -1,6 +1,6 @@
 **Currently:**
 
-- Building next gen social experiences _(NDA)_
+- Building next gen social _(NDA)_
 - Studying MSc AI @ [KCL](https://www.kcl.ac.uk/)
 
 **Previously:**
